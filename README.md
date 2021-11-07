@@ -1,3 +1,3 @@
 # nvim config
 \
-neovim config file
+nvim config file
